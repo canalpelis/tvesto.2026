@@ -1,57 +1,380 @@
 #EXTM3U
-#EXTINF:-1,🏆 LIBERTADORES 🏆
-http://resellerestoestv.com/play/link/2331f7f0-4319-4458-ac7d-145de6319616/eyJpdiI6Imk1b1JyVmIyNVNBUG4xWHpZcWJEMWc9PSIsInZhbHVlIjoiSy9aSHJoeWhQNksyQzNCdG1DR3QweWxBenpRU0dOd1l5SU9NVHN0c1ZiVW41dWlwbjRrOUxTb0JGOTF5bXRDLyIsIm1hYyI6IjEwY2QzMGEyN2M2MTU4OWM0OGFiZmFiM2FjMzYwZDI3ZGI1ZjY5YzRhYTIyMTQ0NDc1NjA4NmVlMWE5NjU2OTYiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,19:30 U. Católica vs Barcelon ᴴᴰ² | LIBERTADORES
-http://resellerestoestv.com/play/link/1cc2668c-49d4-4784-a28e-00e9b368bf89/eyJpdiI6IkR3OEpsTFRZWkFNckxncStxcTB6S2c9PSIsInZhbHVlIjoiTjdVTVVkb08zVGZyc3F1Y282ZGhEQXFWVE94Y1VIWE43T2ZEdHl4M2RGNmtKWnEyS3FoOEFUT3dCdkNsWFRzbiIsIm1hYyI6IjZiMmQ0Y2RiNzg4ZTFlZTRmODJmNmNlMjc3Y2Y4M2UzZTdhNmYzZDFkNjQ1NGY0NmU0NTI2NmNiYmMxMDE1NDciLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,19:00 Barcelona vs Boca Juniors ᴴᴰ³  | LIBERTADORES
-http://resellerestoestv.com/play/link/fefd711c-de68-4582-a6cc-e4dc458c13c9/eyJpdiI6IklPbWtOWVNadTZvM09BZXVXeG0zSnc9PSIsInZhbHVlIjoiRDhSQnQvV3kvTkU3YkRpcCs4RWJ4R0ZxM3pJT2hBTFBlRlAxaEVJZWVCejNEa3J6V1p3RytUNlNjQkx6dFVCMCIsIm1hYyI6IjQ5MTZjNzYxZTMxYWViNWY2MWNlMGFmMTdlODZhZWU1YWU5N2Y0OTMwNTJkOThkNjAyNDg2NWNiNWMzYzA0MDciLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,■■■ UFC - KNOUT - BOXING 🥊🥊🥊
-http://resellerestoestv.com/play/link/62fbcf89-f0c6-4b78-96a2-93b776c6a4ad/eyJpdiI6IituMDluT2NUeHRQOW9yYWdHMG5MSGc9PSIsInZhbHVlIjoiSVVLTGVkSUl6c2JnamhKTy9UamZra2FCM3ErdGVXNWpEKy9nUnExOTNQVDhnWnIxcng4ci9ZbUczdWp4cXF6TyIsIm1hYyI6IjZmMTE0ZmI2ZjFlMjE5ZGNjYTBjYzJkZjYzM2UwMDhjY2JiNTg3ZWExOWE1YTI1ODA4ZjEwMGEwYWEzYTc3OGYiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,¡Noche de KO!
-http://resellerestoestv.com/play/link/8c2ba621-083d-4d34-93ab-8bbe2b931554/eyJpdiI6InFzMnd2bmhGVnVITVF6WVE1MzFSb3c9PSIsInZhbHVlIjoiOTl5TDVxMElnQm1QaHFiWjEvUHJwL2krdkdESGNGMWhvcXV2eU9lMUwvT2ZtOHJQdlY1RHEzdUp3NGxudDNPRiIsIm1hYyI6IjE4ZTEwZmM0NWEwOTYwY2IxNjE2OGQyZjdiZTE1YzQ2NTQ5NjJjODNjZGU4NzU0YjIwZGM4NDAzNGZhYTY0YzgiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,UFC FIGHT PASS
-http://resellerestoestv.com/play/link/d42402bb-33d3-4ecd-9b8f-914a7120a3d2/eyJpdiI6InZuOG1BYmp5RG1MWms1Z0VLNnJqWWc9PSIsInZhbHVlIjoiQ1NIM0FZV1l5L3gxalU5c1owWHFZdi9TSldhRmJGcklQZGc5T0RMbHBsVjZodTZxdXlDUlRDenl1bk54NDhjNiIsIm1hYyI6ImIwMzc4NjUwOWVmMzlmNTUyM2MwYjFjODk4YmVlODFjNDRjOWM2NWU0YmJlYjNhZjAwYWM3ODE3OTk4NWY3ZjQiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,WWE PPV ᴴᴰ
-http://resellerestoestv.com/play/link/45dc5f4c-27be-480c-aa8e-59426f4e33bb/eyJpdiI6IkNHVG01Ykl6RUh6WkNpdjZOYUtVanc9PSIsInZhbHVlIjoiVGlHTE1keEFJbEZpUUFpc1QrYUR4aW9VZUFjZE4xVGJXOXZlRkJMYTNjSnJNZUpZN3Zzd1QrTkxLc3FmQlJzTSIsIm1hYyI6IjU3ZDNjOGI1ZjQxODZlMjA0YTViYzU4OGE5ZjBhNjgyNDNhODgxM2NkODNhY2UyYjhmODQ1MGMwZTA4ZGI2ZTgiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,WWE PPV 1
-http://resellerestoestv.com/play/link/7379b440-86a3-4a07-af64-edae62d4a235/eyJpdiI6ImZZUWppMTE4QkN3czJyZlpaRDdkNnc9PSIsInZhbHVlIjoiblprMmhva2tVWFFVYzdNM0UxL2lIdFBxWDhTeXBSTFhVc1JBZWZCeUYyL0l3bjBKS1Y0T1d2TXpaMlI3R2hVciIsIm1hYyI6IjM0YWI5NTYyYTQ5ZTcyYTY3YjY2NTYyYTJhOTU5N2Y2NzY4MmFhNGUxYTU0YTgwODMwYzY0MTE2Y2RjOWRhM2IiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,WWE PPV 2
-http://resellerestoestv.com/play/link/5ce9b7a7-e502-421c-9d34-0414b5c9c096/eyJpdiI6IkFvQi82Y25hSW5WWjhIZ002WU5WUmc9PSIsInZhbHVlIjoibnNaRkxzN3FRY0dzVE5xMVRXWU1DWVZWOVhjNEppbTA5NkNFYW5IWUREbXVySldVUlZMcjI1WjRwa2orUUdTRCIsIm1hYyI6IjZhMGE0M2Y5NzMzZGY1MmE1NDY5NjE0ZWZkZjIyYTA5ZmRlMzM3OTI1YzNhZDZkOTA4N2RmNmQyYzYxYzI4ZmUiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,EVENTOS NETFLIX #1 ■■■
-http://resellerestoestv.com/play/link/2015e954-4190-4688-9374-75d85edf7bc4/eyJpdiI6IlUwMWU3TFZ2ZVZXSGxkZVlrWTJET0E9PSIsInZhbHVlIjoiS1ZJc0V5c0l1dHNRZUxvUEpyWkRTcDJnZGViYmpDYUI1NnpNR2hkaW1WQ2lRSmxDeVlNNncvWGZsUUlWWjcwbiIsIm1hYyI6ImYwYmRlZmIzMGFjYjU3ZmY4MzgwNzhlMTA3YmI1NTQxNGNlNWJlYmQ3M2MyODA1MzZhZjU0NTY4OTIzZWZlZTEiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,EVENTOS NETFLIX #2 ■■■
-http://resellerestoestv.com/play/link/4d81f38c-e921-49fb-ac7a-a3f4ad25c560/eyJpdiI6IjR1ZmplOXEwTGRJMCtTeVlVL3lRMXc9PSIsInZhbHVlIjoialllbjY4dEk2TFN3Y2lKVE1qcEZrRENqbFY3VTg5d2ZEQVVNU015c2h5MUtaL1RSdFRPM3dsT2JnMGdISDVFVCIsIm1hYyI6ImRlMTNmNTgwZjdjMzlmNmEzYWNkN2IzODMyZmZjOTA5YTI4ZTBjODBmMjEwMDJiZDhjYTRmMGM1NTFjYTkyZDEiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,EVENTOS NETFLIX #3 ■■■
-http://resellerestoestv.com/play/link/485f8c50-3023-4249-a3a5-b219b5b6f5c4/eyJpdiI6IjJYYXJpOEZYbVVmNm81Q3dHSk02WVE9PSIsInZhbHVlIjoiRWh1ZkNCWkliaHpTQlMwMzVRaURXSHZKNXpWZW1LK2poSVptY3hxWFVTREU1ejBoTUZHMkhRcUtHU3lZWWNTYSIsIm1hYyI6IjY1MGVlZjc3ZDViM2IyZDk5MDAwNDFiMDgyOWI3MWY0NWQ1ZDBiZTRjOTI3YzliZDhkYzc2MjE0ODAxNjQ1MjQiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,EVENTOS NETFLIX #1
-http://resellerestoestv.com/play/link/56fe47e4-eb82-4937-9eb4-31a839b191a0/eyJpdiI6InFLdVMwY3lkTXA0VkVjK1pjV2Njb2c9PSIsInZhbHVlIjoiTzBVVVBlS1ZlTEpwaGJndHNvbVR3eUdWcUxzZWh1OGF5dUxmS21obCt3TUlQM2MzcmdxWWdYRURFQnpIZHNhNSIsIm1hYyI6IjY0NzdjOTNjNWQyYjAzOGI3OTgyNTgzOTdlZWRkNzBjMTJiNzM5OTMzNzI1ZjJiNTJhNGRiNTY3ZWNhNzE5NDUiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,EVENTOS NETFLIX #2
-http://resellerestoestv.com/play/link/ee7d734f-f1c0-452e-86b0-40ddead08317/eyJpdiI6IjNhU2NjUmc3T3YzdXllZlR5Y01PUkE9PSIsInZhbHVlIjoibWQxc1RKcmVmQWJpMUtGOEkyU1FKRjQ4c2lyakFJdnpIUlVJdGNwTXdFZG9GOGZEUnFVd1VVcTdlNDVZcnZhbSIsIm1hYyI6IjVhOThjNjdiNjNjOWJkMTZhYzI2ZmI5ZjE3YmEyZDVmYjRkYzQ2OTUyM2ZmYTgyM2JkY2FjMjgxNTg5YTkwNjciLCJ0YWciOiIifQ==.m3u8?
-#EXTINF:-1,EVENTOS NETFLIX #3
-http://resellerestoestv.com/play/link/d87d9d03-1982-4552-9d80-2208037da1d0/eyJpdiI6Ik5QRjdqdmZ0OGdYUXNUbXdGMmgxMVE9PSIsInZhbHVlIjoiLyttTFBaa0M1Y1RCS1Azb01zTDB2TUViZmdtRkNKQytCV2Fnc1hCNTFURm0rZEtNY3NDdEFMM1c3TForT1IvWCIsIm1hYyI6ImUzOGM0YmZjZWU1OTY3ZWQ0NDFjNWE2NTQxMzIwNmRiYWQxOGZjZGY4MjI3ZGFlNTVhNmYyYWY5ODJjM2IxNDEiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,COMBATE
-http://resellerestoestv.com/play/link/71a6babc-1bd7-4da3-994a-43156d57e660/eyJpdiI6IkVUS214N252NWhBcHNGeWhlck9kVHc9PSIsInZhbHVlIjoiYmNnVmtjSHN0VEt5Y0tEZkp3MmYxb3ZhVFU1czBOZldkMGJjOUFIV0hjVnBMR2UrRFVaaUNkSk1tRWx2OERXTSIsIm1hYyI6ImQzNmMzNjkzOGQwMmVkZTMyYmQwOTgwN2ZkN2QyYTc0OWU2NDRkZjM2YzI3NDI4ZTg1YWE0YTczNjEyNWI3YWQiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,DAZN RINGSIDE HD
-http://resellerestoestv.com/play/link/de91a935-ecc9-4550-b116-32b956cbe2cf/eyJpdiI6InVrcXE3K3pDeVQvZVRFa3g1b05RN0E9PSIsInZhbHVlIjoiaGVmelE5T0lxNmM3ME8vWFdQUmRHRys5WHVzUXJSZGFubDFwMVR5dE1NMU13cHhJbU1CUW5hVHliQlpraHhraSIsIm1hYyI6IjQ1Mjc2YWZjMmU4NTc4OWY4MDRjYzU1YTBiMjExYzBlN2U3ZTRkMTBhYzBhYTQ2MThmMjQ3NzBmOTBhM2M0YTciLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,BKFCTV FIGHTIN TV
-http://resellerestoestv.com/play/link/9f48db0b-7bbe-4f30-aeea-b9c3dc58e9c9/eyJpdiI6IkMvMDVZUzVTVms0c3JHNXVLMDVFY3c9PSIsInZhbHVlIjoiWmdWRVV6UzhEVGtkRGxWTG9EZVhBcVBKQm8xWnZ2QXU0ZXFlSGlQSmFVR283UldjRFVCN0tad0VqLzRVVWdMdiIsIm1hYyI6IjMyNDA4Zjc0YTU3NTE4MDlkMWU3ODBmZDhjYTQ3MjBhOGY4MDQ3OTQzMjQzZWUwYjUwZTRlYjZiNjMyZDNlZTciLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,IMPACT WRESTLING CA
-http://resellerestoestv.com/play/link/500af8f8-cfea-4255-9727-ff0071cc9a45/eyJpdiI6IlBkY1ZaWXBNZXpFL0NMaW9YZkdDL2c9PSIsInZhbHVlIjoiM0lMNjBmTit4RXZkK2tuSEg2SURNMVorVmJDdURYMkRhWGpqUnJ2ekhrOFlCWGw5ZWt5MGlUWnN3MStpMUMvKyIsIm1hYyI6ImIzMmQzMGFhYTU1ZGVkNTMzOGRjOTgwMGE3ODljYjMyMGUxNGMxYzFjZjVjYTQ1YTk5NjE3ZWNhMWMzMjZmODUiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,■■■ FORMULA 1 & MOTOR GP ■■■
-http://resellerestoestv.com/play/link/0147710e-e74e-4c23-a76d-7bdc61a2edf4/eyJpdiI6InhzYzlCcTFMbmRnYit1TXJPdkdXUlE9PSIsInZhbHVlIjoid2xMUFU2b0RhT3RKNC9pREtYcG5mUmZHeUNEbjNscjlBU2tEcWc0cGtQZWh6aVhuejQ4eVJRVm9hNGxHTzhOSiIsIm1hYyI6ImUwZTIxY2JkYzIzMzM1MTVhNDNkNjc4YWQyMjc5MDUzMmYyMmNkMDM3NmRlMzcxZDRlMGFmMmM1YTYxMDdjODgiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,F1 DAZN
-http://resellerestoestv.com/play/link/0579f407-ed2d-4f12-ac38-868d109f858c/eyJpdiI6IlhheDFRTWhLZDYvbmRzbElpaDI5ckE9PSIsInZhbHVlIjoiV0lQTnNUbGh1N0VKdXNNZkQ4cGJ5OTJ6V2tEYlE1VWM4SWsrOWdaTHE2RWh6Nm1QMlhma1M0MGFzM2pObUhVcCIsIm1hYyI6IjFlODgwYTIwMTNmOWY0OTI0NmRiODI3N2RlZTA3Mjg5NjdmNDcwNjU3NjBiZWQ0NTRmODBkYWM5NWVhZjQ2OTEiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,F1 DAZN HD
-http://resellerestoestv.com/play/link/e38f129a-10ee-47f1-ab30-8fa6f03dd40b/eyJpdiI6IllNODRYV2ZmdWtyc2xiKytYWEJtaFE9PSIsInZhbHVlIjoiWWw4M2N6YlZicGx5QVZCR0xQVzlkRXc1Tmx3bTVDNnNpSGlhWGVSU1NHV2JkVS81WGlvSWQ1aEI2TTc5blBMciIsIm1hYyI6ImVhNjMxYTY0YWU4ZWFkNzNmYzBmY2UyMTQ0MWY4ZWRlZWJlOGQ2OWQ2OWJiZDEzMGNhYjI0Y2M4NzM2NzZmMzgiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,F1 FOX SPORTS PREMIUM
-http://resellerestoestv.com/play/link/ee8d7652-5609-4ac7-8a9c-a79e1eb08d35/eyJpdiI6IkU2UGI5WG5vQlNDNzg3VXZQaE9Gc0E9PSIsInZhbHVlIjoiZ09aSU0wN0s1dU5ueVdVK0MraXRpS0dnM1hjUmU0MXNCUE10ekRkMUdCL3hsY0hJRzZla0RYRFlVbnc3YTNDbiIsIm1hYyI6IjVmY2MxY2JmYjQwZjM2MmM0OTZmZDUwYTg3OTMwZmI5NWUxNjA2YmMzNWQ2YThlMzkyYjE1MTA5ZmVlZDU0ZGUiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,F1 CANAL FORMULA 1 *FUBO*
-http://resellerestoestv.com/play/link/c4ff2f51-78ca-403c-a416-df6d0512631c/eyJpdiI6InZzOURpQ2F6OTVTa2JaVTErUitKQWc9PSIsInZhbHVlIjoieVpzdHQwZmF2RzIyM1hLSS9rZG1KQ1Fxck5JdERhZFZKSUNqK2hNV1JmL2d6emJhbTJRL1ZsZjMxWGxpY3QvYiIsIm1hYyI6IjQ5ZDc2ODVlNzJmMGE5N2FmM2U1NGRmMTRjZjM2NTFmOWM3ZmJlMzU1MTUxMDg4ZjNmYmRlMjU2YzJkNTQ4YTQiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,F1 FOX SPORTS
-http://resellerestoestv.com/play/link/255f40c1-96ea-4f5f-854c-6be722abc3f2/eyJpdiI6IlZJOWt1NEdUUTVBSkdsSlprVEdScEE9PSIsInZhbHVlIjoiQWZFak1mVVRNV2QrVjBsSkYyeERZVmpISkd0ZWlzVEkvWHVyangwbHlqWXFOZFNzdDJtYi9VNE9VT1hlZ1JseiIsIm1hYyI6IjZjNjE4ZTBjMWE0MzM4ZmEzNTc2MjcxMGM4ZjJmNjAxNjFiNjQ5ZDQzYzgzNjM4Y2JhNTQ3Njg3YjZlY2RlMGYiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,F1 ESPN DEPORTES
-http://resellerestoestv.com/play/link/7f823545-5de0-4be7-80fb-b2dded2892c8/eyJpdiI6ImhpSXliaWNsU09Cb3hOV2RuSGYydGc9PSIsInZhbHVlIjoiWVNEVVZLdWx5RnB4cjZMRlNjZHdsb2l0L3dlYVNZS0swMXlwZG9vK3hPTW5UNGJvTGFxWGNodUprVENBY2dyTiIsIm1hYyI6IjA2MmFjZjY4OGYxZTU1NDkwN2RiYmJhYWM2MDA3OTEzZWIzNTM4ZmU2ZTFmNzVkYTVkOWM2MTdhZjVmMGQyNDgiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,F1 Sky Sports FHD
-http://resellerestoestv.com/play/link/9b7b4620-6844-4c42-85b1-f5c06401ceea/eyJpdiI6IklCSGpYdkhOb1ZTdkxrdUtMbEx0MWc9PSIsInZhbHVlIjoiTFhQaWtzWWlUUXltTmJDR1k4RndRTFFLRHZiRHMyVCtWdkdTaGZ0Z1ltWWozZFhRMHY2Vmg2RGcrYVh6aEZDdyIsIm1hYyI6IjAwY2I0ZDBjOWI1YmVmNjdjY2VjNTc5ODYyY2U4NTUzOThhMTA1NTM0YzU0ZmYzNDZjM2JmN2U1M2YyZjllYWMiLCJ0YWciOiIifQ==.m3u8
-#EXTINF:-1,F1 GP | 01
-http://resellerestoestv.com/play/link/fe59b974-6faa-4398-8604-e086b11ee434/eyJpdiI6ImRnczM0Tnk3VW9CNDNrRUE1RGZDUGc9PSIsInZhbHVlIjoiS1hIalZGK0dIa3U0c0V6NCswYlVtOEpzK3lzV0Q1WXBOR1VwZ1NOZDJZM3crYkNUdjhOQXpsWmxXMXV6ZEltTCIsIm1hYyI6ImYyM2M5MmYyZDcwZDgwOWI4ZDBjYmE5NzA0ZDgyNmNkM2FmOGI1NmIyNWE4NjVjYWQxYmRjNTVkMGJjNzkxODAiLCJ0YWciOiIifQ==.m3u8
+
+
+#EXTINF:-1 tvg-id="Wow TV" tvg-name="Wow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="📺 |VARIADOS", Wow TV
+https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=8650024
+
+#EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDJ0DBVM-IvigDtUGF5VFWCDIs8LD_BA6yELhnMFdDg&s=10" group-title="📺 |VARIADOS", Sol TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-id="Popcorn TV" tvg-name="Popcorn TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy81fPsHV2iwgBLVivc8tYULEhDcZFxnpxROmQ5WC06g&s" group-title="📺 |VARIADOS", 
+Popcorn TV
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_1080.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten TV Family" tvg-name="Rakuten TV Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgYZmxGBqkGnIIx-jijbDMdA-Tax8jBIcn7PVNRHg9v-K-oopH_4n4aU&s=10" group-title="📺 |VARIADOS", Rakuten TV Family
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/4158ed92-bd16-4306-8993-2ecdd56d7217/4.m3u8 
+
+#EXTINF:-1 tvg-id="Historia España TV" tvg-name="Historia España TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Historia_logo.jpg/revision/latest?cb=20220426223553&path-prefix=es" group-title="📺 |VARIADOS", Historia España TV
+https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+
+#EXTINF:-1 tvg-id="Oromar  TV" tvg-name="Oromar Tv" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQFlS5cVvw5IWw/company-logo_200_200/company-logo_200_200/0/1714394895004?e=2147483647&v=beta&t=vPF9iZFEyn6fqaFYq0lFwuzcAJU4kaWL3mopt8Oj-9E" group-title="📺 |VARIADOS", Oromar Tv
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="MiTv" tvg-name="MiTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WxP7KkJHbK5hC0kPi6X8tHVw8TIXbhNfSWls2f5cQg&s" group-title="📺 |VARIADOS", MiTv
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w301812671.m3u8
+
+#EXTINF:-1 tvg-id="Extrema cartoons" tvg-name="Extrema cartoons" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgcf3C9ohQ_LJpLtaTZiostJUjmT75t4V4-wzA6NKPg&s=10" group-title="📺 |VARIADOS", Extrema cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Extrema accion" tvg-name="Extrema accion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgcf3C9ohQ_LJpLtaTZiostJUjmT75t4V4-wzA6NKPg&s=10" group-title="📺 |VARIADOS", Extrema accion 
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KyJZfN1HKWRseglbGKxWTIispRP4E0iRr8COJrVFZQ&s=10" group-title="📺 |VARIADOS", Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="Disney junior" tvg-name="Disney junior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4-4TGN_vlTfe6uUUkMS3bnNeo99NQpmiuN-IrVfcGpw&s=10" group-title="📺 |VARIADOS",Disney junior
+https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 PRIDE TV Peru 
+https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 la Red chile 
+https://ds5i0a12qngha.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+
+#EXTINF:-1 tvg-id="13 series" tvg-name="13 series" tvg-logo="https://static.wikia.nocookie.net/teleserieschile/images/d/d8/Canal_13_2010_1.svg/revision/latest/scale-to-width/360?cb=20200701154733&path-prefix=es" group-title="📺 |VARIADOS", 13 series
+https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/8a95dc8f-b816-4d6a-ad39-3f24441248e2:CHS/variant/abc7c8d468ab86748487f3d13e54b77e/bandwidth/4269891.m3u8
+
+#EXTINF:-1 tvg-id="13 Cultura chile" tvg-name="13 Cultura chile" tvg-logo="https://static.wikia.nocookie.net/teleserieschile/images/d/d8/Canal_13_2010_1.svg/revision/latest/scale-to-width/360?cb=20200701154733&path-prefix=es" group-title="📺 |VARIADOS", 13 Cultura chile
+https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/6b4d3448-28cd-4d56-b18d-ca9c19eb354d:ATL/variant/9ea3a15e5eae74e8479c3d9f99fa54ea/bandwidth/5935213.m3u8
+
+#EXTINF:-1 tvg-id="Unitel TV Peru" tvg-name="Unitel TV Peru" tvg-logo="https://yt3.googleusercontent.com/CARKe8eIuYycJZ9DqRc5KilTMKE4PK114XCWIXp4dKtrObpxoGzQO-_yKt06sZO-3Sgoy7glKtA=s900-c-k-c0x00ffffff-no-rj" group-title="📺 |VARIADOS", Unitel TV Peru
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tv en línea peru" tvg-name="Tv en línea peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYIvf4zZ0n8opF0fbflFNZYEmUK2IWxgQAW6p8aDItCA&s=10" group-title="📺 |VARIADOS", Tv en línea peru
+https://srt.tvdatta.com/tvenlinea/index.m3u8
+
+#EXTINF:-1 tvg-id="Tv+ chincha peru" tvg-name="Tv+ chincha peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNMr3tKPYuitEG7tTsgiUS_Q32OiqidiOJ9-Y8fCmbQo_fhV8TN0VgNc&s=10" group-title="📺 |VARIADOS", Tv+ chincha peru
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Tele Lima Peru peru" tvg-name="Tele Lima Peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROstQ6aOi36zV_hNGRzGHWn-bIahB6pdrcy_d8T5uYDw&s=10" group-title="📺 |VARIADOS", Tele Lima Peru
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="mo Chanel peru" tvg-name="mo Chanel peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyx73l1_-xCdsSIFShzdMTTIeoj0VOY7pJoq8OWd-wg&s=10" group-title="📺 |VARIADOS", mo Chanel peru
+https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="lotPlus TV peru" tvg-name="lotPlus TV peru" tvg-logo="https://i.postimg.cc/fyzvypdv/logolotv2.png" group-title="📺 |VARIADOS", lotPlus TV peru
+https://ontvcable.streamottmas.workers.dev/?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-Ontv%2FOntv%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-id="frecuencia amazónica" tvg-name="frecuencia amazónica" tvg-logo="https://frecuenciaamazonicatv.com/wp-content/uploads/2023/06/cropped-LOGO-PNG-FA.png" group-title="📺 |VARIADOS", frecuencia amazónica
+https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
+
+#EXTINF:-1 tvg-id="atv+" tvg-name="atv+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwZaKAEMpC7CaDW23_jQ4-2JnxsvSYvYNbV7ybLGVMg&s=10" group-title="📺 |VARIADOS", atv+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
+
+
+#EXTINF:-1 tvg-id="atv sur peru" tvg-name="atv sur peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlSCHRdPfOUShJJUuJ4C4LEj5bZwj-sl5vgpTL6_ShQ&s=10" group-title="📺 |VARIADOS",atv sur peru
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1 tvg-id="telesangil hd" tvg-name="telesangil hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx49qnkbTG75JksKncZEt3UhanoPyusCAABah-8dYa4w&s=10" group-title="📺 |VARIADOS",telesangil hd
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/chunks.m3u8
+
+#EXTINF:-1 tvg-id="telesangil " tvg-name="telesangil " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx49qnkbTG75JksKncZEt3UhanoPyusCAABah-8dYa4w&s=10" group-title="📺 |VARIADOS",telesangil 
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mi canal" tvg-name="mi canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9V_aVEw6-mh6pN0hYALDGZlw3OAE9IHG-oXBl3RWag&s" group-title="📺 |VARIADOS", mi canal
+https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
+
+
+#EXTINF:-1 tvg-id="Costa Rica Channel" tvg-name="Costa Rica Channel" tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_m.jpg" group-title="📺 |VARIADOS", Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://live.staticflickr.com/65535/55111341089_4a3f17d5be_m.jpg" group-title="📺 |VARIADOS", Frecuencia Musical TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="La 1 (720p)" tvg-name="La 1 (720p)" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="📺 |VARIADOS", La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La 1 (720p)" tvg-name="La 1 (720p)" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="📺 |VARIADOS", La 1 (720p)
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La 2 (720p)" tvg-name="La 2 (720p)" tvg-logo="https://logo.m3uassets.com/la2.png" group-title="📺 |VARIADOS", La 2 (720p)
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE Internacional" tvg-logo="https://live.staticflickr.com/65535/55117615411_50104f7d94_m.jpg" group-title="📺 |VARIADOS", TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="La 1 Catalunya" tvg-name="La 1 Catalunya" tvg-logo="https://live.staticflickr.com/65535/55118449365_268df8cc3e_t.jpg" group-title="📺 |VARIADOS", La 1 Catalunya
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="📺 |VARIADOS", Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Latina (720p)" tvg-name="Latina (720p)" tvg-logo="https://i.postimg.cc/c1PqVdfF/logo-latina-despues.jpg" group-title="📺 |VARIADOS", Latina (720p)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecosta (720p)" tvg-name="Telecosta (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcQ8HBACi1qi1GUQaHX9O1C2zxg4_hCHjF1-jOs8COKYNhNM69Z9N5pk&s=10" group-title="📺 |VARIADOS", Telecosta (720p)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id="Telesur (480p)" tvg-name="Telesur (480p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 |VARIADOS", Telesur (480p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur (720p)" tvg-name="Telesur (720p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 |VARIADOS", Telesur (720p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur (1080p)" tvg-name="Telesur (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 |VARIADOS", Telesur (1080p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSur venezuela Full" tvg-name="TeleSur venezuela Full" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 |VARIADOS", TeleSur venezuela Full
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Anzoátegui TV" tvg-name="Anzoátegui TV" tvg-logo="https://live.staticflickr.com/65535/55117977628_c0deb5e7bf_t.jpg" group-title="📺 |VARIADOS", Anzoátegui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Globovision (720)" tvg-name="Globovision (720)" tvg-logo="https://live.staticflickr.com/65535/55118213649_f637e292b3_t.jpg" group-title="📺 |VARIADOS", Globovision (720)
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Venevision" tvg-name="Venevision" tvg-logo="https://live.staticflickr.com/65535/54618689429_1d053fbc35_w.jpg" group-title="📺 |VARIADOS", Venevision
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="Globovision 2" tvg-name="Globovision 2" tvg-logo="https://live.staticflickr.com/65535/55118213649_f637e292b3_t.jpg" group-title="📺 |VARIADOS", Globovision 2
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/chunklist_w1868238910.m3u8
+#EXTINF:-1 tvg-id="TVS Retro (720p)" tvg-name="TVS Retro (720p)" tvg-logo="https://live.staticflickr.com/65535/55118042300_29670b2de6_m.jpg" group-title="📺 |VARIADOS", TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="3ABN Latino" tvg-name="3ABN Latino" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNY--55ybg51vuNOafU3pEFKtjhcHEKWXCZQ&s" group-title="📺 |VARIADOS", 3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5TV Corrientes" tvg-name="5TV Corrientes" tvg-logo="https://live.staticflickr.com/65535/55117667686_3a75283997_m.jpg" group-title="📺 |VARIADOS", 5TV Corrientes
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN INTERNACIONAL" tvg-name="EWTN INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/55117876273_70ec08db4e_m.jpg" group-title="📺 |VARIADOS", EWTN INTERNACIONAL
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DW Español (720p)" tvg-name="DW Español (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="📺 |VARIADOS", DW Español (720p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="CNN Español" tvg-name="CNN Español" tvg-logo="https://live.staticflickr.com/65535/55128027605_2d2cf53960_t.jpg" group-title="📺 |VARIADOS",CNN Español
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193500.m3u8
+#EXTINF:-1 tvg-id="CNN Español" tvg-name="CNN Español" tvg-logo="https://live.staticflickr.com/65535/55128027605_2d2cf53960_t.jpg" group-title="📺 |VARIADOS",CNN Español
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193560.m3u8
+#EXTINF:-1 tvg-id="EURO NEWS Español" tvg-name="EURO NEWS Español" tvg-logo="https://live.staticflickr.com/65535/55126771042_75d7a56e63_t.jpg" group-title="📺 |VARIADOS",EURO NEWS Español
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193579.m3u8
+#EXTINF:-1 tvg-id="Cable Noticias web" tvg-name="Cable Noticias" tvg-logo="https://live.staticflickr.com/65535/55126780412_eaef1e9421_t.jpg" group-title="📺 |VARIADOS",Cable Noticias web
+https://app-videoplayer-proxy-prod-eu-001.azurewebsites.net/proxy/live/ngrp:cable09061970_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Cable Noticias" tvg-name="Cable Noticias" tvg-logo="https://live.staticflickr.com/65535/55126780412_eaef1e9421_t.jpg" group-title="📺 |VARIADOS",Cable Noticias
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/818399.m3u8
+#EXTINF:-1 tvg-id="Cable Noticias 2" tvg-name="Cable Noticias 2" tvg-logo="https://live.staticflickr.com/65535/55126780412_eaef1e9421_t.jpg" group-title="📺 |VARIADOS",Cable Noticias 2
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639581.m3u8
+#EXTINF:-1 tvg-id="NTN24" tvg-name="NTN24" tvg-logo="https://live.staticflickr.com/65535/55126785912_7ab922d6ac_t.jpg" group-title="📺 |VARIADOS",NTN24
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639579.m3u8
+#EXTINF:-1 tvg-id="Win+Futbol" tvg-name="Win+Futbol" tvg-logo="https://futbolete.com/wp-content/uploads/2022/03/win__3_0-300x169.jpg" group-title="📺 |VARIADOS",Win+Futbol
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639567.m3u8
+#EXTINF:-1 tvg-id="Win+Futbol 2" tvg-name="Win+Futbol 2" tvg-logo="https://futbolete.com/wp-content/uploads/2022/03/win__3_0-300x169.jpg" group-title="📺 |VARIADOS",Win+Futbol 2
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639573.m3u8
+#EXTINF:-1 tvg-id="RCN Internacional (720p)" tvg-name="RCN Internacional (720p)" tvg-logo="https://live.staticflickr.com/65535/55116816392_60feb2048f_m.jpg" group-title="📺 |VARIADOS", RCN Internacional (720p)
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCN+ (720p)" tvg-name="RCN+ (720p)" tvg-logo="https://live.staticflickr.com/65535/55117897308_aa8b0d69fe_m.jpg" group-title="📺 |VARIADOS", RCN+ (720p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="caracol (720p)" tvg-name="caracol (720p)" tvg-logo="https://logo.m3uassets.com/caracol.png" group-title="📺 |VARIADOS", caracol (720p)
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639570.m3u8
+#EXTINF:-1 tvg-id="RCN (720p)" tvg-name="RCN (720p)" tvg-logo="https://logo.m3uassets.com/rcn.png" group-title="📺 |VARIADOS",RCN (720p)
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639563.m3u8
+#EXTINF:-1 tvg-id="SEÑAL COLOMBIA HD" tvg-name="SEÑAL COLOMBIA HD" tvg-logo="https://live.staticflickr.com/65535/55118309200_0424200560_t.jpg" group-title="📺 |VARIADOS", SEÑAL COLOMBIA HD
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ENLACE BARRANCA web " tvg-name="ENLACE BARRANCA web " tvg-logo="https://live.staticflickr.com/65535/55117089502_d318bfa8c6_t.jpg" group-title="📺 |VARIADOS", ENLACE BARRANCA web
+https://cabhs02-edge.teveo.net/live/AeABTzHYFqd2dffI0Ilhz7ra03j5tiOr0I7IX5oE4KoLsrFQsFA0GvFZIGAUqOTusGYv7iXTPQ48kDjS5KG8btaeyhC5KoCAzp_tWdC9LrP0PNi3SA/chunklist_w91014465.m3u8
+#EXTINF:-1 tvg-id="Cali TV" tvg-name="Cali TV" tvg-logo="https://live.staticflickr.com/65535/55118013218_974e8ff181_t.jpg" group-title="📺 |VARIADOS", Cali TV)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 1 (COLOMBIA)" tvg-name="Canal 1 (COLOMBIA)" tvg-logo="https://live.staticflickr.com/65535/55118134799_3c308d292e_t.jpg" group-title="📺 |VARIADOS", Canal 1 (COLOMBIA)
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 tvg-id="TELEANTIOQUIA web" tvg-name="TELEANTIOQUIA web" tvg-logo="https://live.staticflickr.com/65535/55127327823_16697fb961_t.jpg" group-title="📺 |VARIADOS",TELEANTIOQUIA web
+https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="Suram" tvg-name="Suram" tvg-logo="https://live.staticflickr.com/65535/55118377810_d76b2f2752_t.jpg" group-title="📺 |VARIADOS", Suram
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-id="Canal 2 Yopal" tvg-name="Canal 2 Yopal" tvg-logo="https://live.staticflickr.com/65535/55118371849_533cd496c8_t.jpg" group-title="📺 |VARIADOS", Canal 2 Yopal
+http://131.221.41.94/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="7 TeleValencia 2" tvg-name="7 TeleValencia 2" tvg-logo="https://live.staticflickr.com/65535/55117707891_4c778ca74a_m.jpg" group-title="📺 |VARIADOS", 7 TeleValencia 2
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="8 La Marina TV" tvg-name="8 La Marina TV" tvg-logo="https://live.staticflickr.com/65535/55118107325_0f912832d1_m.jpg" group-title="📺 |VARIADOS", 8 La Marina TV
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-id="8NTV (1080p)" tvg-name="8NTV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55117722471_b7c2f8dfbe_m.jpg" group-title="📺 |VARIADOS", 8NTV (1080p)
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-id="A&R Canal Adventista (720p)" tvg-name="A&R Canal Adventista (720p)" tvg-logo="https://live.staticflickr.com/65535/55117993324_716330304a_m.jpg" group-title="📺 |VARIADOS", A&R Canal Adventista (720p)
+http://51.222.9.192:3589/stream/play.m3u8
+#EXTINF:-1 tvg-id="Acento TV" tvg-name="Acento TV" tvg-logo="https://live.staticflickr.com/65535/55118127520_279a8a10ff_m.jpg" group-title="📺 |VARIADOS", Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="Activa TV (720p)" tvg-name="Activa TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55118132630_15cfaceb5b_m.jpg" group-title="📺 |VARIADOS", Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="ADN 40 (720p)" tvg-name="ADN 40 (720p)" tvg-logo="https://live.staticflickr.com/65535/55116871462_969cf1f9df_m.jpg" group-title="📺 |VARIADOS", ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="Aguacate TV (1080p)" tvg-name="Aguacate TV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55117746416_39af5bf5b8_m.jpg" group-title="📺 |VARIADOS", Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Ahora TV (720p" tvg-name="Ahora TV (720p" tvg-logo="https://live.staticflickr.com/65535/55118016614_e2b4d689bf_m.jpg" group-title="📺 |VARIADOS", Ahora TV (720p
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+#EXTINF:-1 tvg-id="Aliento Vision (720p)" tvg-name="Aliento Vision (720p)" tvg-logo="https://live.staticflickr.com/65535/55118150025_db21db6738_m.jpg" group-title="📺 |VARIADOS", Aliento Vision (720p)
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="Amigos TV Chiquimula" tvg-name="Amigos TV Chiquimula" tvg-logo="https://live.staticflickr.com/65535/55117960273_b5d3f2db33_m.jpg" group-title="📺 |VARIADOS", Amigos TV Chiquimula
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 tvg-id="AMX Noticias (720p)" tvg-name="AMX Noticias (720p)" tvg-logo="https://live.staticflickr.com/65535/55118026959_a7aafcc20f_m.jpg" group-title="📺 |VARIADOS", AMX Noticias (720p)
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena Seis TV (720p)" tvg-name="Antena Seis TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55117766441_22a4e885a8_t.jpg" group-title="📺 |VARIADOS", Antena Seis TV (720p)
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+#EXTINF:-1 tvg-id="Antena SUR" tvg-name="Antena SUR" tvg-logo="https://live.staticflickr.com/65535/55117973613_ef908cfcfe_t.jpg" group-title="📺 |VARIADOS", Antena SUR
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+#EXTINF:-1 tvg-id="Atacama TV" tvg-name="Atacama TV" tvg-logo="https://live.staticflickr.com/65535/55126099682_9ef9de9aea_t.jpg" group-title="📺 |VARIADOS", Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-id="ATV+" tvg-name="ATV+" tvg-logo="https://live.staticflickr.com/65535/55117992418_d23b22b869_t.jpg" group-title="📺 |VARIADOS", ATV+
+https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+#EXTINF:-1 tvg-id="ATV Sur" tvg-name="ATV Sur" tvg-logo="https://live.staticflickr.com/65535/55118278804_6d6dd25861_t.jpg" group-title="📺 |VARIADOS", ATV Sur
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Auténtica Televisión (720p)" tvg-name="Auténtica Televisión (720p)" tvg-logo="https://live.staticflickr.com/65535/55117792186_b53a708d0c_t.jpg" group-title="📺 |VARIADOS", Auténtica Televisión (720p)
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="Bajo Techo TV (1080p)" tvg-name="Bajo Techo TV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55117997568_11775eda24_t.jpg" group-title="📺 |VARIADOS", Bajo Techo TV (1080p)
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bonches Latinos TV" tvg-name="Bonches Latinos TV" tvg-logo="https://live.staticflickr.com/65535/55118062329_41ab059698_t.jpg" group-title="📺 |VARIADOS", Bonches Latinos TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buena TV (1080p)" tvg-name="Buena TV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118068724_0538068084_t.jpg" group-title="📺 |VARIADOS", Buena TV (1080p)
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:-1 tvg-id="Cana TV Digital (720p)" tvg-name="Cana TV Digital (720p)" tvg-logo="https://live.staticflickr.com/65535/55118214745_9e627f878d_t.jpg" group-title="📺 |VARIADOS", Cana TV Digital (720p)
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+#EXTINF:-1 tvg-id="Canal 1 (720p)" tvg-name="Canal 1 (720p)" tvg-logo="https://live.staticflickr.com/65535/55117873216_93797e9587_t.jpg" group-title="📺 |VARIADOS", Canal 1 (720p)
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
+#EXTINF:-1 tvg-id="Canal 2 Alpavisión Neiva (720p)" tvg-name="Canal 2 Alpavisión Neiva (720p)" tvg-logo="https://live.staticflickr.com/65535/55118086728_51d5cdac7d_t.jpg" group-title="📺 |VARIADOS", Canal 2 Alpavisión Neiva (720p)
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 21 TV (720p)" tvg-name="Canal 21 TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55117889451_f7da1a51a6_t.jpg" group-title="📺 |VARIADOS", Canal 21 TV (720p)
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 22 (720p)" tvg-name="Canal 22 (720p)" tvg-logo="https://live.staticflickr.com/65535/55118096453_51bc651bb5_t.jpg" group-title="📺 |VARIADOS", Canal 22 (720p)
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Más Televisión (720p)" tvg-name="Canal Más Televisión (720p)" tvg-logo="https://live.staticflickr.com/65535/55118290265_f69580df35_t.jpg" group-title="📺 |VARIADOS", Canal Más Televisión (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="Canal Mundo Visión (720p)" tvg-name="Canal Mundo Visión (720p)" tvg-logo="https://live.staticflickr.com/65535/55118164019_b96019b9cb_t.jpg" group-title="📺 |VARIADOS", Canal Mundo Visión (720p)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-id="CDM Internacional" tvg-name="CDM Internacional" tvg-logo="https://live.staticflickr.com/65535/55118296560_23a8efded8_t.jpg" group-title="📺 |VARIADOS", CDM Internacional
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN Spanish (1080p)" tvg-name="CGTN Spanish (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118170934_73803b4ab3_t.jpg" group-title="📺 |VARIADOS", CGTN Spanish (1080p)
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Estrella (1080p)" tvg-name="Cine Estrella (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118113158_a302d5f0fa_t.jpg" group-title="📺 |VARIADOS", Cine Estrella (1080p)
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine Sony (720p)" tvg-name="Cine Sony (720p)" tvg-logo="https://live.staticflickr.com/65535/55117911871_415378a5dc_t.jpg" group-title="📺 |VARIADOS", Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Retro Plus" tvg-name="Retro Plus" tvg-logo="https://live.staticflickr.com/65535/55118311345_9b109cb7ff_t.jpg" group-title="📺 |VARIADOS", Retro Plus
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Ecuavisa" tvg-name="Ecuavisa" tvg-logo="https://live.staticflickr.com/65535/55117050097_204d05c294_t.jpg" group-title="📺 |VARIADOS", Ecuavisa
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks.m3u8?WebM3UCL=&dpssid=b22018806638699d0e36b4d8b&sid=ba5t1l1xb21202531626699d0e36b4d8a&ndvc=1
+#EXTINF:-1 tvg-id="Cosmos TV" tvg-name="Cosmos TV" tvg-logo="https://live.staticflickr.com/65535/55117053817_e734d914e8_t.jpg" group-title="📺 |VARIADOS", Cosmos TV
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="BesT Clasicos TV" tvg-name="BesT Clasicos TV" tvg-logo="https://live.staticflickr.com/65535/55118194404_d7a1344109_t.jpg" group-title="📺 |VARIADOS", BesT Clasicos TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="America TeVe USA" tvg-name="America TeVe USA" tvg-logo="https://live.staticflickr.com/65535/55117061362_52567d3c25_t.jpg" group-title="📺 |VARIADOS", America TeVe USA
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-id="Mexico Travel" tvg-name="Mexico Travel" tvg-logo="https://live.staticflickr.com/65535/55117935376_6433400ff0_t.jpg" group-title="📺 |VARIADOS", Mexico Travel
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+#EXTINF:-1 tvg-id="Estrella TV Mexico" tvg-name="Estrella TV Mexico" tvg-logo="https://live.staticflickr.com/65535/55118144473_683e10a5b7_t.jpg" group-title="📺 |VARIADOS", Estrella TV Mexico
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Iran Español" tvg-name="TV Iran Español" tvg-logo="https://live.staticflickr.com/65535/55118161028_db53623f86_t.jpg" group-title="📺 |VARIADOS", TV Iran Español
+https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
+#EXTINF:-1 tvg-id="Telemundo Puertorico" tvg-name="Telemundo Puertorico" tvg-logo="https://live.staticflickr.com/65535/55117096092_d21f6dc513_t.jpg" group-title="📺 |VARIADOS", Telemundo Puertorico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="Plus TV" tvg-name="Plus TV" tvg-logo="https://live.staticflickr.com/65535/55117971751_b77f1aa4d2_t.jpg" group-title="📺 |VARIADOS", Plus TV
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="Pequeradio" tvg-name="Pequeradio" tvg-logo="https://live.staticflickr.com/65535/55118241094_646c2ee93d_t.jpg" group-title="📺 |VARIADOS", Pequeradio
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="Bolivision" tvg-name="Bolivision" tvg-logo="https://live.staticflickr.com/65535/55117107432_3ae3c3e1df_t.jpg" group-title="📺 |VARIADOS", Bolivision
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Telesur Costarica" tvg-name="Telesur Costarica" tvg-logo="https://live.staticflickr.com/65535/55118246879_d0b2ff27f1_t.jpg" group-title="📺 |VARIADOS", Telesur Costarica
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 tvg-id="RT Español" tvg-name="RT Español" tvg-logo="https://live.staticflickr.com/65535/55118252519_513894fbcb_t.jpg" group-title="📺 |VARIADOS", RT Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTime" tvg-name="MyTime" tvg-logo="https://live.staticflickr.com/65535/55118194213_3c9ef1304f_t.jpg" group-title="📺 |VARIADOS", MyTime
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina Clasicos" tvg-name="Latina Clasicos" tvg-logo="https://live.staticflickr.com/65535/55118386885_5f4bcd8670_t.jpg" group-title="📺 |VARIADOS", Latina Clasicos
+https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal Drama" tvg-name="Kanal Drama" tvg-logo="https://live.staticflickr.com/65535/55117130927_b8a26ab2d9_t.jpg" group-title="📺 |VARIADOS", Kanal Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="ENLACE" tvg-name="ENLACE" tvg-logo="https://live.staticflickr.com/65535/55118003331_b3cf83fcd0_t.jpg" group-title="📺 |VARIADOS", ENLACE
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal De Dios" tvg-name="Canal De Dios" tvg-logo="https://live.staticflickr.com/65535/55117136417_332c64c1ed_t.jpg" group-title="📺 |VARIADOS", Canal De Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 tvg-id="Bum TV" tvg-name="Bum TV" tvg-logo="https://live.staticflickr.com/65535/55117138487_059c1e043d_t.jpg" group-title="📺 |VARIADOS", Bum TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://live.staticflickr.com/65535/55118276719_b4c174005d_t.jpg" group-title="📺 |VARIADOS", Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="Canal 8" tvg-name="Canal 8" tvg-logo="https://live.staticflickr.com/65535/55118415110_523a5b95b4_t.jpg" group-title="📺 |VARIADOS", Canal 8
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-id="Tele Red" tvg-name="Tele Red" tvg-logo="https://live.staticflickr.com/65535/55118426870_422c0545a7_t.jpg" group-title="📺 |VARIADOS", Tele Red
+https://k20.usastreams.com:8081/telered/index.m3u8
+#EXTINF:-1 tvg-id="Tevex TV" tvg-name="Tevex TV" tvg-logo="https://live.staticflickr.com/65535/55118035761_77030f240c_t.jpg" group-title="📺 |VARIADOS", Tevex TV
+https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Nuevo Tiempo TV" tvg-name="Nuevo Tiempo TV" tvg-logo="https://live.staticflickr.com/65535/55118434020_7428779a52_t.jpg" group-title="📺 |VARIADOS", Nuevo Tiempo TV
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="France 24 Español" tvg-name="France 24 Español" tvg-logo="https://live.staticflickr.com/65535/55118042386_e74c242f2f_t.jpg" group-title="📺 |VARIADOS", France 24 Español
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="Estremadura TV" tvg-name="Estremadura TV" tvg-logo="https://live.staticflickr.com/65535/55118437725_6f9f97b5c7_t.jpg" group-title="📺 |VARIADOS", Estremadura TV
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/1080p_5M_25fps_aac_128k.m3u8
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="Canal Sur Andalucía" tvg-logo="https://live.staticflickr.com/65535/55118251218_f865e39ca0_t.jpg" group-title="📺 |VARIADOS", Canal Sur Andalucía
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202_1.m3u8
+#EXTINF:-1 tvg-id="Condavision" tvg-name="Condavision" tvg-logo="https://live.staticflickr.com/65535/55118443180_eb0f866cc2_t.jpg" group-title="📺 |VARIADOS", Condavision
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/chunklist_w435019721.m3u8
+#EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="https://live.staticflickr.com/65535/55118268093_011dc2fed8_t.jpg" group-title="📺 |VARIADOS", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleSafor" tvg-name="TeleSafor" tvg-logo="https://live.staticflickr.com/65535/55118067431_ccbd371369_t.jpg" group-title="📺 |VARIADOS", TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 tvg-id="Alcarria TV Españar" tvg-name="Alcarria TV Españar" tvg-logo="https://live.staticflickr.com/65535/55118069876_66cff849ff_t.jpg" group-title="📺 |VARIADOS", Alcarria TV España
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="Teleritmo" tvg-name="Teleritmo" tvg-logo="https://live.staticflickr.com/65535/55118337584_7a6c4e7108_t.jpg" group-title="📺 |VARIADOS", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="Atrescine" tvg-name="Atrescine" tvg-logo="https://live.staticflickr.com/65535/55118471640_993feca594_t.jpg" group-title="📺 |VARIADOS", Atrescine
+http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+#EXTINF:-1 tvg-id="B15 TV" tvg-name="B15 TV" tvg-logo="https://live.staticflickr.com/65535/55118080486_0f3bf90d97_t.jpg" group-title="📺 |VARIADOS", B15 TV
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Series " tvg-name="BBC Series " tvg-logo="https://live.staticflickr.com/65535/55118354839_21342af555_t.jpg" group-title="📺 |VARIADOS", BBC Series
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Brav TV" tvg-name="Brav TV" tvg-logo="https://live.staticflickr.com/65535/55118357749_2be227ab5d_t.jpg" group-title="📺 |VARIADOS", Brav TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+#EXTINF:-1 tvg-id="Canal 10 Durango" tvg-name="Canal 10 Durango" tvg-logo="https://live.staticflickr.com/65535/55118098451_c2782f6a5b_t.jpg" group-title="📺 |VARIADOS", Canal 10 Durango
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 21 Tachira " tvg-name="Canal 21 Tachira " tvg-logo="https://live.staticflickr.com/65535/55118497670_651213500a_t.jpg" group-title="📺 |VARIADOS", Canal 21 Tachira
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="Chile Channel" tvg-name="Chile Channel" tvg-logo="https://live.staticflickr.com/65535/55118504760_cf20dee63c_t.jpg" group-title="📺 |VARIADOS", Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-1 tvg-id="Chile Vision 2" tvg-name="Chile Vision 2" tvg-logo="https://live.staticflickr.com/65535/55118113736_8e6a09e21b_t.jpg" group-title="📺 |VARIADOS", Chile Vision 2
+http://38.250.127.17:9800/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="Clan TV" tvg-name="Clan TV" tvg-logo="https://live.staticflickr.com/65535/55118508950_d4eda2c8c0_t.jpg" group-title="📺 |VARIADOS", Clan TV
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 tvg-id="Click TV" tvg-name="Click TV" tvg-logo="https://live.staticflickr.com/65535/55117246282_869b146f8f_t.jpg" group-title="📺 |VARIADOS", Click TV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Cumbia Mix" tvg-name="Cumbia Mix" tvg-logo="https://live.staticflickr.com/65535/55118390454_23bb4f1660_t.jpg" group-title="📺 |VARIADOS", Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-1 tvg-id="Dios TV" tvg-name="Dios TV" tvg-logo="https://live.staticflickr.com/65535/55117259352_426e07b420_t.jpg" group-title="📺 |VARIADOS", Dios TV
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-id="Dios TV" tvg-name="Dios TV" tvg-logo="https://live.staticflickr.com/65535/55118339548_81ef18bca4_t.jpg" group-title="📺 |VARIADOS", Dios TV
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-1 tvg-id="Ecotel TV" tvg-name="Ecotel TV" tvg-logo="https://live.staticflickr.com/65535/55117266617_37d05e877f_t.jpg" group-title="📺 |VARIADOS", Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="ENT Family" tvg-name="ENT Family" tvg-logo="https://live.staticflickr.com/65535/55118345358_0c86924ca3_t.jpg" group-title="📺 |VARIADOS", ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Gol Classics" tvg-name="Gol Classics" tvg-logo="https://live.staticflickr.com/65535/55117278707_3353027c9a_t.jpg" group-title="📺 |VARIADOS", Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 tvg-id="Hechos Ecuador (1080p)" tvg-name="Hechos Ecuador (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118418559_a80888f9f4_t.jpg" group-title="📺 |VARIADOS", Hechos Ecuador (1080p)
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-id="Hope Channel" tvg-name="Hope Channel" tvg-logo="https://live.staticflickr.com/65535/55118361373_3939401889_t.jpg" group-title="📺 |VARIADOS", Hope Channel
+https://jstre.am/live/jsl:EC0Mq0i6HJU.m3u8
+#EXTINF:-1 tvg-id="HTV Live (1080p)" tvg-name="HTV Live (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118428384_b9daac7c5d_t.jpg" group-title="📺 |VARIADOS", HTV Live (1080p)
+https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Imagen Universal TV" tvg-name="Imagen Universal TV" tvg-logo="https://live.staticflickr.com/65535/55118560420_b9e2ca908d_t.jpg" group-title="📺 |VARIADOS", Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="Interalmeria TV (1080p)" tvg-name="Interalmeria TV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118434639_84e50eb4e8_t.jpg" group-title="📺 |VARIADOS", Interalmeria TV (1080p)
+https://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1 tvg-id="Interalmeria TV (1080p)" tvg-name="Interalmeria TV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118437334_5a28d5bb09_t.jpg" group-title="📺 |VARIADOS", Interalmeria TV (1080p)
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="CPN TV (720p)" tvg-name="CPN TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55118568515_2bb6e6b51b_t.jpg" group-title="📺 |VARIADOS", CPN TV (720p)
+https://video2.lhdserver.es/cableperu/live.m3u8
+#EXTINF:-1 tvg-id="ITV Deportes" tvg-name="ITV Deportes" tvg-logo="https://live.staticflickr.com/65535/55118571155_c866dd0888_t.jpg" group-title="📺 |VARIADOS", ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-id="La Cantina Memorias (480p)" tvg-name="La Cantina Memorias (480p)" tvg-logo="https://live.staticflickr.com/65535/55118389693_9c339d048e_t.jpg" group-title="📺 |VARIADOS", La Cantina Memorias (480p)
+https://video.xtrematv.com:3208/live/memoriaslacantinalive.m3u8
+#EXTINF:-1 tvg-id="La Kalle (720p)" tvg-name="La Kalle (720p)" tvg-logo="https://live.staticflickr.com/65535/55117317577_bf0f5467c0_t.jpg" group-title="📺 |VARIADOS", La Kalle (720p)
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+#EXTINF:-1 tvg-id="La Popular TV" tvg-name="La Popular TV" tvg-logo="https://live.staticflickr.com/65535/55118395148_b3fd68b28d_t.jpg" group-title="📺 |VARIADOS", La Popular TV
+https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="La Que Buena Atlanta" tvg-name="La Que Buena Atlanta" tvg-logo="https://live.staticflickr.com/65535/55117322952_bb56ae3e9c_t.jpg" group-title="📺 |VARIADOS", La Que Buena Atlanta
+https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
+#EXTINF:-1 tvg-id="Latin Zone TV (720p)" tvg-name="Latin Zone TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55118197771_b514b8bdf6_t.jpg" group-title="📺 |VARIADOS", Latin Zone TV (720p)
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+#EXTINF:-1 tvg-id="Canal 24 Horas RTVE" tvg-name="Canal 24 Horas RTVE" tvg-logo="https://live.staticflickr.com/65535/55127265694_39bec9170e_t.jpg" group-title="📺 |VARIADOS", Canal 24 Horas RTVE
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="Tastemade en Español" tvg-name="Tastemade en Español" tvg-logo="https://live.staticflickr.com/65535/55127023241_61a8448766_t.jpg" group-title="📺 |VARIADOS", Tastemade en Español
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+#EXTINF:-1 tvg-id=" Telepacífico" tvg-name=" Telepacífico" tvg-logo="https://live.staticflickr.com/65535/55127226923_0afaa1d319_t.jpg" group-title="📺 |VARIADOS",  Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte" tvg-logo="https://live.staticflickr.com/65535/55127254403_25e8f09f5d_t.jpg" group-title="📺 |VARIADOS",Teledeporte
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:-1 tvg-id="Canal Málaga" tvg-name="Canal Málaga" tvg-logo="https://live.staticflickr.com/65535/55127268038_5ea26b0312_t.jpg" group-title="📺 |VARIADOS",Canal Málaga
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Tenerife Plus+ TV" tvg-name="Tenerife Plus+ TV" tvg-logo="https://live.staticflickr.com/65535/55127124771_012607a269_t.jpg" group-title="📺 |VARIADOS",Tenerife Plus+ TV
+https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
+#EXTINF:-1 tvg-id=" Rewind Music Channe" tvg-name=" Rewind Music Channe" tvg-logo="https://live.staticflickr.com/65535/55126679862_c3f5e41944_t.jpg" group-title="📺 |VARIADOS", Rewind Music Channe
+https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Grande TV (Ve)" tvg-name="Grande TV (Ve)" tvg-logo="https://live.staticflickr.com/65535/55127757848_6e91f487b6_t.jpg" group-title="📺 |VARIADOS",Grande TV (Ve)
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Net Channel Señal 2" tvg-name="Net Channel Señal 2" tvg-logo="https://live.staticflickr.com/65535/55127788089_e5a1814d5a_t.jpg" group-title="📺 |VARIADOS",Net Channel Señal 2
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+
