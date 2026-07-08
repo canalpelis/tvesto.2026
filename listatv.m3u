@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Extrema TV" tvg-name="Extrema TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="📺 |VARIADOS", Extrema TV
+https://live20.bozztv.com/akamaissh101/ssh101/extrematvcr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="24/7 TV" tvg-name="24/7 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="📺 |VARIADOS", 24/7 TV
 https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/pvod/208138/1_F4M1L14R_1X1.mp4/playlist.m3u8
 
