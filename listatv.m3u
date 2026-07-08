@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="Activa Tv" tvg-name="Activa Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0ABtgxGjpmE3j_f0ktX37_VWfmzRD8GnS4dq6OuypQ&s=10" group-title="📺 |VARIADOS", Activa Tv
 https://183.bozztv.com/giatv/giatv-Activatv/Activatv/chunks.m3u8
-#EXTINF:-1 tvg-id=\"MiTv\" tvg-name=\"MiTv\" tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WxP7KkJHbK5hC0kPi6X8tHVw8TIXbhNfSWls2f5cQg&s\" group-title=\"📺 |VARIADOS\", MiTv
+
 #EXTINF:-1 tvg-id="24/7 TV" tvg-name="24/7 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="📺 |VARIADOS", 24/7 TV
 https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/pvod/208138/1_F4M1L14R_1X1.mp4/playlist.m3u8
 
