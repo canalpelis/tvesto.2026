@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="Activa Tv" tvg-name="Activa Tv" tvg-logo="https://i1.sndcdn.com/artworks-000022775185-uw4y2s-t500x500.jpg" group-title="📺 |VARIADOS", Activa Tv
 https://183.bozztv.com/giatv/giatv-Activatv/Activatv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="24/7 TV" tvg-name="24/7 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="📺 |VARIADOS", 24/7 TV
-https://live20.bozztv.com/giatvplayout/giatvvod/giatv/movies/pvod/208138/1_F4M1L14R_1X1.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="TVS X" tvg-name="TVS X" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TFLH5l1LOsA9-E5nShJ_lTa62A0P3CqW3uIYGhSkcRQuyEdxAxtbueTQ&s=10   " group-title="📺 |VARIADOS", TVS X
+https://live20.bozztv.com/akamaissh101/ssh101/tevesporteve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Wow TV" tvg-name="Wow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="📺 |VARIADOS", Wow TV
 https://live20.bozztv.com/giatvplayout7/giatv-209186/tracks-v1a1/mono.ts.m3u8
