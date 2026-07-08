@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Activa Tv" tvg-name="Activa Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0ABtgxGjpmE3j_f0ktX37_VWfmzRD8GnS4dq6OuypQ&s=10" group-title="📺 |VARIADOS", Activa Tv
+#EXTINF:-1 tvg-id="Activa Tv" tvg-name="Activa Tv" tvg-logo="https://i1.sndcdn.com/artworks-000022775185-uw4y2s-t500x500.jpg" group-title="📺 |VARIADOS", Activa Tv
 https://183.bozztv.com/giatv/giatv-Activatv/Activatv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="24/7 TV" tvg-name="24/7 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="📺 |VARIADOS", 24/7 TV
