@@ -348,6 +348,8 @@ https://cabhs02-edge.teveo.net/live/AeAB0iSN54-mBv__HyPV-pvh6p15diCfStCPUKBeATGe
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 1 (COLOMBIA)" tvg-name="Canal 1 (COLOMBIA)" tvg-logo="https://live.staticflickr.com/65535/55118134799_3c308d292e_t.jpg" group-title="📺 |VARIADOS", Canal 1 (COLOMBIA)
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(4XLN_fuJaAPV5ZKOCVbUHpnHNDEfMpyVAfknJuZG0N28pFwZ_8X6yAhEwN_WUiMll5dgS0bh1fnhm_VcH1gvO6I6RJ-BKYt-wZ-dVyUdzJrIekkFKyHdJ2YuoAC8TCWz)/cloud/3/x9nvvkc/s/live-720.m3u8#cell=lcf2-eu-north-1b
+#EXTINF:-1 tvg-id="Canal 1 (COLOMBIA)" tvg-name="Canal 1 (COLOMBIA)" tvg-logo="https://live.staticflickr.com/65535/55118134799_3c308d292e_t.jpg" group-title="📺 |VARIADOS", Canal 1 (COLOMBIA)
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639587.ts
 #EXTINF:-1 tvg-id="TELEMEDELLIN" tvg-name="TELEMEDELLIN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="📺 |VARIADOS",TELEMEDELLIN
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639583.m3u8
 #EXTINF:-1 tvg-id="Suram" tvg-name="Suram" tvg-logo="https://live.staticflickr.com/65535/55118377810_d76b2f2752_t.jpg" group-title="📺 |VARIADOS", Suram
