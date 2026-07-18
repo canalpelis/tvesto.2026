@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:0 type="favorites" channelId="-1", TELETICA ᴴᴰ²
+https://acceso.mediosdecostarica.com:3483/hybrid/play.m3u8
 #EXTINF:0 type="favorites" channelId="-1", TELEMUNDO CHICAGO ᴴᴰ²
 http://resellerestoestv.com/play/link/acf469b1-0ab2-4d12-b29e-d85b99610268/eyJpdiI6IkhaeUFRYXNjOTQvV2hoTllOcFdIRGc9PSIsInZhbHVlIjoiZnlldWV2cHgwQ24yUnoxWktBdmhIcGZDZk1YOU9KY09xWUVmMjlYTlVvaEVYbWVmeDNIeWZaUDI5UUZHZDVuZyIsIm1hYyI6ImI0OWI2OGRiNzc3M2I4ZWE0NTUzZGZiMDJjYWM1MzBhMzhiNzY2ZWJiZTJhNTEyNThmOTMwYTAzYTU4MTAzMWQiLCJ0YWciOiIifQ==.m3u8?useIntId=0
 #EXTINF:0 type="favorites" channelId="-1" group="Movies" logo="https://i.imgur.com/OMQq19N.png", Runtime Espanol (720p)
